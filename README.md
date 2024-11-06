@@ -1,6 +1,6 @@
 # KIM JEONG HYEOK 😎
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhxc0102%2Fhxc0102.git&count_bg=%233D6AC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhxc0102%2Fhxc0102.git&count_bg=%233D6AC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)
 
 ![Jeonghyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxc0102&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh1357)](https://solved.ac/kjh1357/)
